@@ -159,6 +159,20 @@
 .card8:hover .cardfa {
   opacity: 1;
 }
+.card9 {
+  background: url("../images/team/rishit_srivastava.jpeg") center center no-repeat;
+  background-size: 300px;
+}
+.card9:hover {
+  background: url("../images/team/rishit_srivastava.jpeg") left center no-repeat;
+  background-size: 600px;
+}
+.card9:hover h2 {
+  opacity: 1;
+}
+.card9:hover .cardfa {
+  opacity: 1;
+}
 h2 {
   font-family: montserrat;
   color: #fff;
